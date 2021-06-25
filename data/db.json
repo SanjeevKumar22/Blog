@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Python",
+      "body": "Easy Language",
+      "author": "vikas",
+      "id": 1
+    }
+  ]
+}
